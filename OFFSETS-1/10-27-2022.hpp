@@ -97,7 +97,7 @@ namespace offsets {
 	constexpr ::std::ptrdiff_t m_vecViewOffset = 0x108;
 	constexpr ::std::ptrdiff_t m_viewPunchAngle = 0x3030;
 	constexpr ::std::ptrdiff_t m_zoomLevel = 0x33E0;
-	//here starts sigs
+	// here starts sigs
 	constexpr ::std::ptrdiff_t anim_overlays = 0x2990;
 	constexpr ::std::ptrdiff_t clientstate_choked_commands = 0x4D30;
 	constexpr ::std::ptrdiff_t clientstate_delta_ticks = 0x174;
