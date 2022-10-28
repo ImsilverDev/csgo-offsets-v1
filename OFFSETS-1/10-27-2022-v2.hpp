@@ -1,5 +1,5 @@
 #include <cstdint>
-#include <cstddef> //set your includes here
+#include <cstddef> //set your includes here.
 
 namespace offsets {
 	constexpr ::std::ptrdiff_t cs_gamerules_data = 0x0;
